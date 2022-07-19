@@ -1,7 +1,9 @@
 const ShopPage = () => {
 
     return (
-        <div></div>
+        <div>
+            <p>Shopping List</p>
+        </div>
     );
 };
 

@@ -11,4 +11,16 @@ export const items = [
         text: "Shopping Cart",
         private: false,
     },
+    {
+        id: "id-3",
+        to: "/history",
+        text: "History",
+        private: false,
+    },
+    {
+        id: "id-4",
+        to: "/discount",
+        text: "Coupons",
+        private: false,
+    },
 ];

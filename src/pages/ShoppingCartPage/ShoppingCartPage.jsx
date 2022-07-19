@@ -1,7 +1,9 @@
 const ShoppingCartPage = () => {
 
     return (
-        <div></div>
+        <div>
+            <p>Your Staff</p>
+        </div>
     );
 };
 
